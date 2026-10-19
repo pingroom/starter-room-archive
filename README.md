@@ -14,7 +14,7 @@ npm run demo
 npm test
 ```
 
-The demo uses the real pinned `@pingroom/sdk` 0.6.0 with a local mock transport. It scans twice, merges the same notification ID, searches the result, and removes its temporary files. It needs no credentials and makes no network requests.
+The demo uses the real pinned `@pingroom/sdk` 0.7.1 with a local mock transport. It scans twice, merges the same notification ID, searches the result, and removes its temporary files. It needs no credentials and makes no network requests.
 
 ## Connect and export
 
